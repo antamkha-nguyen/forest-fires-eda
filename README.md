@@ -19,7 +19,7 @@ This project performs exploratory data analysis on the Forest Fires dataset from
 - Python
 - pandas, numpy
 - matplotlib, seaborn
-- Jupyter Notebook (VScode)
+- Jupyter Notebook (VSCode)
 
 ## Notes
 This project focuses on exploratory data analysis rather than predictive modeling.

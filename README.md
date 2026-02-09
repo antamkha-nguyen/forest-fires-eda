@@ -16,9 +16,7 @@ This project performs exploratory data analysis on the Forest Fires dataset from
 - Correlation analysis and interpretation
 
 ## Tools Used
-- Python
-- pandas, numpy
-- matplotlib, seaborn
+- Python (pandas, numpy, matplotlib, seaborn)
 - Jupyter Notebook (VSCode)
 
 ## Notes
